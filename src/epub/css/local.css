@@ -44,3 +44,14 @@ blockquote span[xml|lang]{
 	font-style: italic;
 }
 /* end language styling */
+
+/* table */
+table{
+    margin: 1em auto;
+}
+
+table td:last-child{
+	text-align: right;
+	font-variant-numeric: tabular-nums;
+}
+/* end table */
