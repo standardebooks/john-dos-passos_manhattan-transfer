@@ -47,11 +47,32 @@ blockquote span[xml|lang]{
 
 /* table */
 table{
-    margin: 1em auto;
+	margin: 1em auto;
 }
 
 table td:last-child{
-	text-align: right;
 	font-variant-numeric: tabular-nums;
+	text-align: right;
 }
 /* end table */
+
+/* chapter header paragraphs */
+header > p{
+	font-style: italic;
+	margin-left: 3em;
+	text-align: initial;
+}
+
+header > p + p,
+header > blockquote + p{
+	text-indent: 1em;
+}
+
+#chapter-3-1 header > p:nth-of-type(3),
+#chapter-3-1 header > p:nth-of-type(5){
+	font-style: normal;
+	margin: .5em auto;
+	margin-left: 0;
+	text-indent: 0;
+}
+/* end chapter header paragraphs */
