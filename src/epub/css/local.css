@@ -68,6 +68,12 @@ header > blockquote + p{
 	text-indent: 1em;
 }
 
+#chapter-2-6 header b,
+#chapter-3-1 header b,
+#chapter-3-2 header b{
+	font-style: normal;
+}
+
 #chapter-3-1 header > p:nth-of-type(3),
 #chapter-3-1 header > p:nth-of-type(5){
 	font-style: normal;
