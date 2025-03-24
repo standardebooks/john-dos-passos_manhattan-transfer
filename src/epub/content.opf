@@ -46,45 +46,44 @@
 		<meta property="term" refines="#subject-5">sh2008110355</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008107238</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Several characters strive for happiness and excitement in early twentieth century New York City.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;It is near the end of the Gilded Age. Ellen Thatcher is introduced as a young girl and aspires to be an actress. Jimmy Herf arrives back in New York from abroad. He rejects the idea of business school and becomes a reporter. George Baldwin is a lawyer who wins a big case, but continues to struggle to grow his business, eventually entering into politics.&lt;/p&gt;
+			&lt;p&gt;A good number other minor characters are introduced, some to appear briefly and then drop out of the story, others with connections to the several plot lines. They range from the lowly street beggar to the aspiring architect. They experience the highs and lows of life as they chase after their dreams in the new, modern fast pace of New York City.&lt;/p&gt;
+			&lt;p&gt;The story jumps forward through World War One and into the Jazz Age, going from one scene to the next in a fragmentary style that is compared to a movie. It conveys the dynamic nature and energy of the metropolis. &lt;a href="https://standardebooks.org/ebooks/john-dos-passos"&gt;John Dos Passos&lt;/a&gt; received high praise for his ability to capture the soul of Manhattan, and this novel was quickly considered an important work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71853</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/manhattantransfe00dosp_0</dc:source>
+		<meta property="se:production-notes">The text was not altered where it appeared that the author was intent on a writing style that includes omitted punctuation, inconsistent dashes, concatenating words, and dialogue that includes dialect.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Manhattan_Transfer</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Manhattan_Transfer_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-dos-passos_manhattan-transfer</meta>
 		<dc:creator id="author">John Dos Passos</dc:creator>
-		<meta property="file-as" refines="#author">Passos, John Dos</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Dos Passos, John</meta>
+		<meta property="se:name.person.full-name" refines="#author">John Roderigo Dos Passos</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Dos_Passos</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80001431</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Sloan</dc:contributor>
+		<meta property="file-as" refines="#artist">Sloan, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Sloan</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Carol Brown</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Brown, Carol</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Emmanuel Ackerman</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Ackerman, Emmanuel</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
