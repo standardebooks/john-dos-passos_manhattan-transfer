@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-2.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-4.xhtml">
+		<ignore>
+			<code>t-076</code>
+			<reason>Lower case 'v' used as letter shape not grapheme.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-5.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-2.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-5.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-6.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-7.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-1.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-3.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-5.xhtml">
+		<ignore>
+			<code>y-022</code>
+			<reason>Allow consecutive quotes as writing style.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
