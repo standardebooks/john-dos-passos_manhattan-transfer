@@ -86,16 +86,21 @@ header > blockquote + p{
 /* centered blockquote treatment */
 #chapter-1-2 blockquote:first-of-type p,
 #chapter-1-3 blockquote:first-of-type p,
-#chapter-3-2 blockquote:first-of-type p,
 #chapter-3-4 blockquote header p,
 #chapter-3-5 blockquote p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-3-2 blockquote:first-of-type p{
 	text-align: center;
 	text-indent: 0;
 }
 
 #chapter-1-2 blockquote:first-of-type p:first-child,
 #chapter-3-2 blockquote:first-of-type p:first-child,
-#chapter-3-4 blockquote:first-of-type header p{
+#chapter-3-4 blockquote header p{
 	font-size: larger;
 }
 /* end centered blockquote treatment */
