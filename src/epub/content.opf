@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-dos-passos/manhattan-transfer</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-02T19:37:24Z</dc:date>
+		<meta property="dcterms:modified">2025-04-02T19:37:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,16 +52,16 @@
 		<meta property="group-position" refines="#collection-1">78</meta>
 		<dc:description id="description">Several characters strive for happiness and excitement in early twentieth century New York City.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;It is near the end of the Gilded Age in New York City. Ellen Thatcher is a young girl who aspires to be an actress. Young Jimmy Herf returns after years abroad, and rejects business school, becoming a reporter. George Baldwin is a lawyer who wins a big case, but continues to struggle to grow his business, eventually entering into politics. The lives of these characters intersect in various ways throughout the novel.&lt;/p&gt;
-			&lt;p&gt;A good number other minor characters are introduced, some to appear briefly and then drop out of the story, others with connections to the several plot lines. They range from the lowly street beggar to the aspiring architect. They chase after love and excitement in the urban fast pace of New York City, often experiencing frustration and defeat.&lt;/p&gt;
-			&lt;p&gt;The story jumps forward through World War One and into the Jazz Age, going from one scene to the next in a fragmentary style. Many have compared this to a movie with many jumbled parts put together, portraying an overall impression of the metropolis through these glimpses. &lt;a href="https://standardebooks.org/ebooks/john-dos-passos"&gt;John Dos Passos&lt;/a&gt; received praise for his ability to capture the soul of Manhattan, and this novel was quickly considered an important work.&lt;/p&gt;
+			&lt;p&gt;The scene is the end of the Gilded Age in New York City. Ellen Thatcher is a young girl who aspires to be an actress. Young Jimmy Herf returns after years abroad, and rejects business school, becoming a reporter. George Baldwin is a lawyer who wins a big case, but continues to struggle to grow his business, eventually entering politics. The novel weaves the lives of these characters together throughout the narrative.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Manhattan Transfer&lt;/i&gt; also has a good number minor characters, some of whom only appear briefly, while others connect to the several plot lines. They range from a lowly street beggar to an aspiring architect, chasing after love and excitement in the fast pace of New York City, often encountering both frustration and defeat.&lt;/p&gt;
+			&lt;p&gt;The story then jumps forward through World War I and into the Jazz Age, moving from one scene to the next in a fragmentary style. Many have compared this to a movie with many jumbled parts put together, portraying an overall impression of the metropolis through these glimpses. Contemporaries praised &lt;a href="https://standardebooks.org/ebooks/john-dos-passos"&gt;John Dos Passos&lt;/a&gt; for his ability to capture the soul of Manhattan, and &lt;i&gt;Manhattan Transfer&lt;/i&gt; was quickly lauded as an important work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71853</dc:source>
 		<dc:source>https://archive.org/details/manhattantransfe00dosp_0</dc:source>
 		<meta property="se:production-notes">The text was not altered where it appeared that the author was intent on a writing style that includes omitted punctuation, inconsistent dashes, concatenating words, and dialogue that includes dialect.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">131369</meta>
+		<meta property="se:reading-ease.flesch">85.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Manhattan_Transfer_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-dos-passos_manhattan-transfer</meta>
 		<dc:creator id="author">John Dos Passos</dc:creator>
@@ -94,6 +94,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
