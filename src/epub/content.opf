@@ -68,7 +68,7 @@
 		<meta property="file-as" refines="#author">Dos Passos, John</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Roderigo Dos Passos</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Dos_Passos</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80001431</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80001431</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">John Sloan</dc:contributor>
 		<meta property="file-as" refines="#artist">Sloan, John</meta>
