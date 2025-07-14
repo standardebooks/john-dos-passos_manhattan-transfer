@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Allow lack of single quotes for elision as writing style.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-1-2.xhtml">
 		<ignore>
 			<code>y-022</code>
