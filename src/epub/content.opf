@@ -61,7 +61,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/71853</dc:source>
 		<dc:source>https://archive.org/details/manhattantransfe00dosp_0</dc:source>
 		<meta property="se:production-notes">The text was not altered where it appeared that the author was intent on a writing style that includes omitted punctuation, inconsistent dashes, concatenating words, and dialogue that includes dialect.</meta>
-		<meta property="se:word-count">131369</meta>
+		<meta property="se:word-count">131367</meta>
 		<meta property="se:reading-ease.flesch">85.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Manhattan_Transfer_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-dos-passos_manhattan-transfer</meta>
