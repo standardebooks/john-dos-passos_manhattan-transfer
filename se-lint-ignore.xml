@@ -7,51 +7,62 @@
 	</file>
 	<file path="chapter-1-2.xhtml">
 		<ignore code="y-022">
+			<line>37</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-1-4.xhtml">
 		<ignore code="t-076">
+			<line>19</line>
 			<reason>Lower case 'v' used as letter shape not grapheme.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-1-5.xhtml">
 		<ignore code="y-022">
+			<line>99</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-2.xhtml">
 		<ignore code="y-022">
+			<line>178</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-5.xhtml">
 		<ignore code="y-022">
+			<line>129</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-6.xhtml">
 		<ignore code="y-022">
+			<line>70</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-7.xhtml">
 		<ignore code="y-022">
+			<line>97</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-1.xhtml">
 		<ignore code="y-022">
+			<line>169</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-3.xhtml">
 		<ignore code="y-022">
+			<line>278</line>
+			<line>426</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-5.xhtml">
 		<ignore code="y-022">
+			<line>100</line>
 			<reason>Allow consecutive quotes as writing style.</reason>
 		</ignore>
 	</file>
