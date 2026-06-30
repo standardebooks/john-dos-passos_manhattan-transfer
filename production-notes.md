@@ -1,0 +1,1 @@
+The text was not altered where it appeared that the author was intent on a writing style that includes omitted punctuation, inconsistent dashes, concatenating words, and dialogue that includes dialect.
