@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-dos-passos/manhattan-transfer</dc:identifier>
 		<dc:date>2025-04-02T19:37:24Z</dc:date>
@@ -52,12 +52,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">78</meta>
-		<dc:description id="description">Several characters strive for happiness and excitement in early twentieth century New York City.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Several characters strive for happiness and excitement in early twentieth century New York City.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The scene is the end of the Gilded Age in New York City. Ellen Thatcher is a young girl who aspires to be an actress. Young Jimmy Herf returns after years abroad, and rejects business school, becoming a reporter. George Baldwin is a lawyer who wins a big case, but continues to struggle to grow his business, eventually entering politics. The novel weaves the lives of these characters together throughout the narrative.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Manhattan Transfer&lt;/i&gt; also has a good number minor characters, some of whom only appear briefly, while others connect to the several plot lines. They range from a lowly street beggar to an aspiring architect, chasing after love and excitement in the fast pace of New York City, often encountering both frustration and defeat.&lt;/p&gt;
 			&lt;p&gt;The story then jumps forward through World War I and into the Jazz Age, moving from one scene to the next in a fragmentary style. Many have compared this to a movie with many jumbled parts put together, portraying an overall impression of the metropolis through these glimpses. Contemporaries praised &lt;a href="https://standardebooks.org/ebooks/john-dos-passos"&gt;John Dos Passos&lt;/a&gt; for his ability to capture the soul of Manhattan, and &lt;i&gt;Manhattan Transfer&lt;/i&gt; was quickly lauded as an important work.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/71853</dc:source>
 		<dc:source>https://archive.org/details/manhattantransfe00dosp_0</dc:source>
