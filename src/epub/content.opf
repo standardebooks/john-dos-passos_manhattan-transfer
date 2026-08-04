@@ -52,7 +52,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">78</meta>
-		<dc:abstract>Several characters strive for happiness and excitement in early twentieth century New York City.</dc:abstract>
+		<meta property="schema:abstract">Several characters strive for happiness and excitement in early twentieth century New York City.</meta>
 		<dc:description>
 			&lt;p&gt;The scene is the end of the Gilded Age in New York City. Ellen Thatcher is a young girl who aspires to be an actress. Young Jimmy Herf returns after years abroad, and rejects business school, becoming a reporter. George Baldwin is a lawyer who wins a big case, but continues to struggle to grow his business, eventually entering politics. The novel weaves the lives of these characters together throughout the narrative.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Manhattan Transfer&lt;/i&gt; also has a good number minor characters, some of whom only appear briefly, while others connect to the several plot lines. They range from a lowly street beggar to an aspiring architect, chasing after love and excitement in the fast pace of New York City, often encountering both frustration and defeat.&lt;/p&gt;
