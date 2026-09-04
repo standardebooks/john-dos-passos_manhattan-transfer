@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Manhattan Transfer</dc:title>
 		<meta property="file-as" refines="#title">Manhattan Transfer</meta>
-		<dc:subject id="subject-1">New York (N.Y.) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">New York (N.Y.)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Social problems -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Immigrants -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Rich people -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Manhattan (New York, N.Y.) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Social problems--Fiction</dc:subject>
+		<dc:subject id="subject-4">Immigrants--Fiction</dc:subject>
+		<dc:subject id="subject-5">Rich people--Fiction</dc:subject>
+		<dc:subject id="subject-6">Manhattan (New York, N.Y.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108377</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
